@@ -1,0 +1,4 @@
+1;OLED Philips TV;2000
+2;Dell Monitor 27 inch;1200
+3;Sony Digitalna kamera;2500
+4;Philips Android TV 55;1250
